@@ -1,15 +1,26 @@
 # Chinese Address Generator
+A tool for generate tons of fake Chinese address.
 
 # How to use
 
-# db.txt Format
+1. Disable parts that you don't need.
 
-Line start with '#' will be ignored
+2. Select your DBs or copy all txt from db folder to program folder then click Default to use Default DBs.
 
-[Road Name][Space][Community Name]
+3. Set each variables then click Generate.
 
-Example "张三 李四"
+4. Check result.txt at program folder for results.
+
+
+# Text DB Files Format
+
+One name per line.
+
+This program no longer append 省(province), 市(city), 路(road), or 小区(community) to each part in result.
+
 
 # ToDo
 
 # Screenshot
+
+Not available yet.

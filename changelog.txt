@@ -1,4 +1,12 @@
 
+Version 0.61
+[feature_add] be able to select db for all part
+[feature_add] be able to enable or disable specific part
+[feature_add] auto disable the window when generating and enable the window when finshed
+[feature_improve] re-design UI 
+[feature_improve] move generating progress to thread
+[bug_fixed] progress bar is not working (I forgot it)
+
 Version 0.1
 [feature_N\A] Initial Release
 
